@@ -1,0 +1,26 @@
+.header {
+    background-image: url(./images/banner.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+}
+
+.header.peekaboo {
+    background-image: url(./images/spookyBanner.jpg);
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    background-color: #9e9e9e;
+    background-size: cover;
+    color: white;
+}
+
+.container {
+    margin: 120px;
+}
